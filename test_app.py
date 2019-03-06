@@ -11,4 +11,4 @@ def test_something():
     body = response.get_json()
 
     assert 'message' in body
-    assert body['message'] == 'Hello'
+    assert body['message'] == 'Goodbye'
