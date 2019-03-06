@@ -2,7 +2,7 @@
 
 def github_id = 'stevegovuk'
 
-// vvv DO NOT EDIT THE VARIABLES BETWEEN THESE MARKERS vvv //
+// vvv --- DO NOT EDIT THE VARIABLES BETWEEN THESE MARKERS vvv //
 
 def git_commit     = ''
 def git_repository = "https://github.com/${github_id}/onse-lab-intro-to-kubernetes"
